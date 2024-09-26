@@ -21,6 +21,8 @@ We use natural language processing to automatically extract named entities, i.e.
 
 Access system through here (required credentials)- https://www.aiforpatientsafety.com/
 
+Contact email: zoiesywong@gmail.com
+
 ## References
 Wong ZSY, Waters N, Liu J, Ushiro S. A large dataset of annotated incident reports on medication errors. Sci Data. 2024;11(1):260.
 

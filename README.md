@@ -1,5 +1,4 @@
-# incidentNERsystem
-AI empowered incident reporting and learning system 
+# AI empowered incident reporting and learning system 
 
 This site provides the source code of the prototype 'AI-enabled Incident Reporting and Learning System'. This system is being developed by the 'AI for Patient Safety' team led by Dr. Zoie Wong.
 There are three phases of reporting, namely: reporting the incident, structuring free-text report, and recommending learning resources. Through the backend BERT model, the system can automatically capture information from unstructured, free-text incident reports and render it as structured data (Japanese text only). 

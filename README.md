@@ -11,7 +11,7 @@ The aim of our team is to facilitate learning from past patient safety incidents
 We have been investigating how to automatically capture information from unstructured, free-text incident reports and present it as structured data.
 Once an incident report has been 'structured', it can be analyzed automatically with advanced clinical AI, drawing from vast medical databases to provide the user with similar past incidents and relevant learning resources.
 
-# Languages
+## Languages
 System interface - Japanese and English. Incident text processing - Japanese
 ![image](https://github.com/user-attachments/assets/64357423-4bcd-4661-b429-c1d01268307c)
 ![image](https://github.com/user-attachments/assets/a20cb2aa-4485-46fe-9404-efa82af463c6)
